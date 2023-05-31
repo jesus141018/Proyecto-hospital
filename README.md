@@ -1,2 +1,2 @@
-# proyecto-veterinaria
-Proyecto veterinaria
+# Proyecto-hospital
+Jesus Manuel Vasquez Cerpa
